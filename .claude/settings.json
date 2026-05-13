@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//c/c/Users/USER/Desktop/WebCultivate Clients/cloud-ecom/backend/middleware/**)",
+      "Bash(npm install *)",
+      "Bash(npm uninstall *)",
+      "Bash(npx vite *)",
+      "Read(//c/Users/USER/Desktop/**)"
+    ]
+  }
+}
